@@ -18,7 +18,9 @@ Taglines：Earth can be darker than space.
 > 如今我们拥有五年时光重新经历，五年时间查明毁灭地球的元凶，五年机会阻止灾难重演
 
 
-[链接]
+[链接](https://jike.teracloud.jp/share/1211e2ba827961c6)  提取码：0xc9m4i1
+
+<!-- ##{"timestamp":1760193000}## -->
 
 
 
