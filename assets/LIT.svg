@@ -1,0 +1,12 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs><clipPath id="shape-clip-256"><circle cx="128" cy="128" r="128"/></clipPath></defs>
+  <path d="M 0,0 L 256,0 L 256,128 Q 192,76.8 128,128 T 0,128 Z" fill="#ffff79" clip-path="url(#shape-clip-256)"/>
+  <path d="M 0,128 Q 64,179.2 128,128 T 256,128 L 256,256 L 0,256 Z" fill="#cacaff" clip-path="url(#shape-clip-256)"/>
+  <text x="128" y="128" 
+        font-family="Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" 
+        font-size="160" 
+        font-weight="500"
+        fill="#FFFFFF" 
+        text-anchor="middle" 
+        dominant-baseline="central">LIT</text>
+</svg>
